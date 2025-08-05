@@ -12,3 +12,5 @@ elif operation=='/':
         print("Error: Division by zero is not allowed.")
     else:
         print("Result:", num1/num2)
+else: 
+    print("Invalid operation. Please use +, -, *, or /.")
